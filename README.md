@@ -27,7 +27,7 @@ This code supports the results and analysis presented in the paper:
 *(T. Senevirathna, 2025)*
 
 ## 📌 Citation
-
+```
 @article{senevirathna2025enhancing,
   title={Enhancing Accountability, Resilience, and Privacy of Intelligent Networks With XAI},
   author={Senevirathna, Thulitha and Sandeepa, Chamara and Siniarski, Bartlomiej and Nguyen, Manh-Dung and Marchal, Samuel and Boerger, Michell and Liyanage, Madhusanka and Wang, Shen},
@@ -35,7 +35,7 @@ This code supports the results and analysis presented in the paper:
   year={2025},
   publisher={IEEE}
 }
-
+```
 If you use this repository, please cite the thesis or related publications accordingly.
 
 ---
