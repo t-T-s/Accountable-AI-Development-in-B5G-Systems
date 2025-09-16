@@ -1,8 +1,3 @@
-# Accountable-AI-Development-in-B5G-Systems
-
-Here's a concise and informative GitHub repository description in Markdown format for the codebase related to the **"Accountable AI Development in B5G Systems"** chapter:
-
-```markdown
 # 📡 Accountable AI Development in B5G Systems
 
 This repository contains the code, data, and metric computation framework introduced in the thesis chapter *"Accountable AI Development in B5G Systems"*. The work focuses on quantifying and enforcing explainability, fairness, and transparency in AI models deployed within next-generation (5G and B5G) intelligent networking systems.
@@ -17,8 +12,6 @@ This repository contains the code, data, and metric computation framework introd
 
 ## 📁 Structure
 
-```
-
 accountable-ai-b5g/
 ├── data/                  # Sample 5G simulation data
 ├── models/                # Pretrained and trainable model architectures
@@ -26,8 +19,6 @@ accountable-ai-b5g/
 ├── notebooks/             # Interactive explanation and visualization tools
 ├── utils/                 # Helper scripts and data loaders
 └── README.md              # Project documentation
-
-```
 
 ## 📚 Related Publication
 
@@ -50,6 +41,3 @@ If you use this repository, please cite the thesis or related publications accor
 ---
 
 Feel free to open issues or contribute improvements!
-```
-
-Let me know if you’d like to include usage instructions, dependencies, or links to datasets/publications.
