@@ -11,7 +11,7 @@ This repository contains the code, data, and metric computation framework introd
 - 📉 **Visualization Tools**: Jupyter notebooks for visualizing explanations and metric trends across time and use cases.
 
 ## 📁 Structure
-
+```
 accountable-ai-b5g/
 ├── data/                  # Sample 5G simulation data
 ├── models/                # Pretrained and trainable model architectures
@@ -19,7 +19,7 @@ accountable-ai-b5g/
 ├── notebooks/             # Interactive explanation and visualization tools
 ├── utils/                 # Helper scripts and data loaders
 └── README.md              # Project documentation
-
+```
 ## 📚 Related Publication
 
 This code supports the results and analysis presented in the paper:  
