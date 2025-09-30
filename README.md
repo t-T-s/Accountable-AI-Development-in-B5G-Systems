@@ -10,22 +10,6 @@ This repository contains the code, data, and metric computation framework introd
 - 🔄 **Closed-Loop Feedback**: Prototype for integrating external stakeholder feedback into AI system updates.
 - 📉 **Visualization Tools**: Jupyter notebooks for visualizing explanations and metric trends across time and use cases.
 
-## 📁 Structure
-```
-accountable-ai-b5g/
-├── data/                  # Sample 5G simulation data
-├── models/                # Pretrained and trainable model architectures
-├── metrics/               # Explainability and accountability metric implementations
-├── notebooks/             # Interactive explanation and visualization tools
-├── utils/                 # Helper scripts and data loaders
-└── README.md              # Project documentation
-```
-## 📚 Related Publication
-
-This code supports the results and analysis presented in the paper:  
-**"Enhancing Accountability, Resilience, and Privacy of Intelligent Networks With XAI"**  
-*(T. Senevirathna, 2025)*
-
 ## 📌 Citation
 ```
 @article{senevirathna2025enhancing,
